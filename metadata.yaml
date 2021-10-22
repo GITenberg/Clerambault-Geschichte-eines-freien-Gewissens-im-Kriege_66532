@@ -1,0 +1,38 @@
+_repo: Clerambault-Geschichte-eines-freien-Gewissens-im-Kriege_66532
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Zweig, Stefan
+    alias: Branch, Stephen
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '26291'
+    url: http://www.gutenberg.org/2009/agents/26291
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Stefan_Zweig
+    - https://de.wikipedia.org/wiki/Stefan_Zweig
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2021-10-13'
+identifiers:
+  gutenberg: '66532'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Clerambault
+
+  Geschichte eines freien Gewissens im Kriege'
+url: http://www.gutenberg.org/ebooks/66532
