@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Stefan_Zweig
     - https://de.wikipedia.org/wiki/Stefan_Zweig
+covers:
+- cover_type: archival
+  image_path: 66532-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Romain_Rolland
     - https://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66532#Clerambault-Geschichte-eines-freien-Gewissens-im-Kriege
 gutenberg_issued: '2021-10-13'
 identifiers:
   gutenberg: '66532'
